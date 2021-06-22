@@ -1,0 +1,409 @@
+1624284113072	geckodriver	INFO	Listening on 127.0.0.1:50386
+1624284116099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RECORD~1\\AppData\\Local\\Temp\\rust_mozprofileUmmBgF"
+1624284117249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Recording\\AppData\\Local\\Temp\\rust_mozprofileUmmBgF\\search.json.mozlz4", (void 0)))
+1624284121354	Marionette	INFO	Listening on port 50394
+1624284121675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24222: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24278: unreachable code after return statement
+JavaScript error: https://a.pub.network/worldometers-info/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Recording\AppData\Local\Temp\rust_mozprofileUmmBgF\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624284561370	Marionette	INFO	Stopped listening on port 50394
+ settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Recording\\AppData\\Local\\Temp\\rust_mozprofileDK7rIz\\search.json.mozlz4", (void 0)))
+1624284315970	Marionette	INFO	Listening on port 50554
+1624284316065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24218: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24274: unreachable code after return statement
+JavaScript error: https://a.pub.network/worldometers-info/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Recording\AppData\Local\Temp\rust_mozprofileDK7rIz\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624284560000	Marionette	INFO	Stopped listening on port 50554
+ settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Recording\\AppData\\Local\\Temp\\rust_mozprofiled9EAQ3\\search.json.mozlz4", (void 0)))
+1624284444509	Marionette	INFO	Listening on port 50747
+1624284444970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24219: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24275: unreachable code after return statement
+JavaScript error: https://a.pub.network/worldometers-info/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js, line 56: TypeError: f[0] is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Recording\AppData\Local\Temp\rust_mozprofiled9EAQ3\protections.sqlite
+1624284995600	Marionette	INFO	Stopped listening on port 50747
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Recording\\AppData\\Local\\Temp\\rust_mozprofileOYUMOI\\search.json.mozlz4", (void 0)))
+1624284605126	Marionette	INFO	Listening on port 50941
+1624284605320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24221: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24277: unreachable code after return statement
+1624284627114	Marionette	INFO	Stopped listening on port 50941
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Recording\AppData\Local\Temp\rust_mozprofileOYUMOI\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1624284815496	geckodriver	INFO	Listening on 127.0.0.1:51066
+1624284818520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RECORD~1\\AppData\\Local\\Temp\\rust_mozprofileNET7dg"
+1624284819444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Recording\\AppData\\Local\\Temp\\rust_mozprofileNET7dg\\search.json.mozlz4", (void 0)))
+1624284822989	Marionette	INFO	Listening on port 51074
+1624284823343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24221: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24277: unreachable code after return statement
+JavaScript error: https://a.pub.network/worldometers-info/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.worldometers.info/coronavirus/, line 141: TypeError: window.cookieconsent is undefined
+1624284880066	Marionette	INFO	Stopped listening on port 51074
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Recording\AppData\Local\Temp\rust_mozprofileNET7dg\protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1624284922912	geckodriver	INFO	Listening on 127.0.0.1:51169
+1624284925937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RECORD~1\\AppData\\Local\\Temp\\rust_mozprofileu4OmK8"
+1624284926975	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Recording\\AppData\\Local\\Temp\\rust_mozprofileu4OmK8\\search.json.mozlz4", (void 0)))
+1624284930762	Marionette	INFO	Listening on port 51177
+1624284930948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624284931212	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24221: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24277: unreachable code after return statement
+JavaScript error: https://www.worldometers.info/coronavirus/, line 141: TypeError: window.cookieconsent is undefined
+1624284977631	Marionette	INFO	Stopped listening on port 51177
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Recording\AppData\Local\Temp\rust_mozprofileu4OmK8\protections.sqlite
+1624285060914	geckodriver	INFO	Listening on 127.0.0.1:51293
+1624285063950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RECORD~1\\AppData\\Local\\Temp\\rust_mozprofile54JDMB"
+1624285064906	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Recording\\AppData\\Local\\Temp\\rust_mozprofile54JDMB\\search.json.mozlz4", (void 0)))
+1624285068557	Marionette	INFO	Listening on port 51301
+1624285068947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24219: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24275: unreachable code after return statement
+JavaScript error: https://www.worldometers.info/coronavirus/, line 141: TypeError: window.cookieconsent is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://a.pub.network/worldometers-info/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js, line 56: TypeError: f[0] is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js, line 56: TypeError: f[0] is undefined
+JavaScript error: https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js, line 56: TypeError: f[0] is undefined
+JavaScript error: https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js, line 56: TypeError: f[0] is undefined
+JavaScript error: https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js, line 56: TypeError: f[0] is undefined
+JavaScript error: https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js, line 56: TypeError: f[0] is undefined
+JavaScript error: https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js, line 56: TypeError: f[0] is undefined
+www.worldometers.info/coronavirus/, line 24220: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24276: unreachable code after return statement
+JavaScript error: https://www.worldometers.info/coronavirus/, line 141: TypeError: window.cookieconsent is undefined
+JavaScript error: https://a.pub.network/worldometers-info/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51580
+1624285941912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RECORD~1\\AppData\\Local\\Temp\\rust_mozprofile4WwERT"
+1624285942756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Recording\\AppData\\Local\\Temp\\rust_mozprofile4WwERT\\search.json.mozlz4", (void 0)))
+1624285946848	Marionette	INFO	Listening on port 51589
+1624285946912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24220: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24276: unreachable code after return statement
+JavaScript error: https://www.worldometers.info/coronavirus/, line 141: TypeError: window.cookieconsent is undefined
+JavaScript error: https://a.pub.network/worldometers-info/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51683
+1624286007250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RECORD~1\\AppData\\Local\\Temp\\rust_mozprofiley6CRAg"
+1624286008109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Recording\\AppData\\Local\\Temp\\rust_mozprofiley6CRAg\\search.json.mozlz4", (void 0)))
+1624286011880	Marionette	INFO	Listening on port 51693
+1624286012488	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24219: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24275: unreachable code after return statement
+JavaScript error: https://www.worldometers.info/coronavirus/, line 141: TypeError: window.cookieconsent is undefined
+1624286056319	Marionette	INFO	Stopped listening on port 51693
+JavaScript error: https://a.pub.network/worldometers-info/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1624286487349	geckodriver	INFO	Listening on 127.0.0.1:51834
+1624286490358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RECORD~1\\AppData\\Local\\Temp\\rust_mozprofile1PAtuM"
+1624286491318	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Recording\\AppData\\Local\\Temp\\rust_mozprofile1PAtuM\\search.json.mozlz4", (void 0)))
+1624286495147	Marionette	INFO	Listening on port 51842
+1624286495363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24221: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24277: unreachable code after return statement
+JavaScript error: https://a.pub.network/worldometers-info/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.worldometers.info/coronavirus/, line 141: TypeError: window.cookieconsent is undefined
+1624286558283	Marionette	INFO	Stopped listening on port 51842
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Recording\AppData\Local\Temp\rust_mozprofile1PAtuM\protections.sqlite
+1624286651177	geckodriver	INFO	Listening on 127.0.0.1:51933
+1624286654179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RECORD~1\\AppData\\Local\\Temp\\rust_mozprofilefW9MLF"
+1624286655181	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Recording\\AppData\\Local\\Temp\\rust_mozprofilefW9MLF\\search.json.mozlz4", (void 0)))
+1624286659398	Marionette	INFO	Listening on port 51941
+1624286659783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 20077: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 20133: unreachable code after return statement
+JavaScript error: https://a.pub.network/worldometers-info/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.worldometers.info/coronavirus/, line 141: TypeError: window.cookieconsent is undefined
+1624286753951	Marionette	INFO	Stopped listening on port 51941
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Recording\AppData\Local\Temp\rust_mozprofilefW9MLF\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1624287025179	geckodriver	INFO	Listening on 127.0.0.1:52061
+1624287028210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RECORD~1\\AppData\\Local\\Temp\\rust_mozprofileSB0DjF"
+1624287029110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Recording\\AppData\\Local\\Temp\\rust_mozprofileSB0DjF\\search.json.mozlz4", (void 0)))
+1624287033743	Marionette	INFO	Listening on port 52069
+1624287033846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24220: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 24276: unreachable code after return statement
+JavaScript error: https://www.worldometers.info/coronavirus/, line 141: TypeError: window.cookieconsent is undefined
+1624287067483	Marionette	INFO	Stopped listening on port 52069
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Recording\AppData\Local\Temp\rust_mozprofileSB0DjF\protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
