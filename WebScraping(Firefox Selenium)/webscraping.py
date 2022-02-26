@@ -4,7 +4,7 @@ driver = webdriver.Firefox(executable_path=r'./driver/geckodriver.exe')
 driver.get("https://www.worldometers.info/coronavirus/")
 
 # Last Update
-el = driver.find_element('xpath', '/html/body/div[2]/div[2]/div[1]/div/div[2]')
+el = driver.find_element('xpath', '/html/body/div[3]/div[2]/div[1]/div/div[2]')
 print(el.get_property("innerHTML"))
 
 #Corona Virus Case, Deaths , Recovered
